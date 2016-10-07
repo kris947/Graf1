@@ -1,0 +1,14 @@
+﻿  Skeleton.cpp
+c:\users\szalo\desktop\opengl\programs\skeleton\skeleton\skeleton.cpp(415): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\szalo\desktop\opengl\programs\skeleton\skeleton\skeleton.cpp(424): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\szalo\desktop\opengl\programs\skeleton\skeleton\skeleton.cpp(450): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\szalo\desktop\opengl\programs\skeleton\skeleton\skeleton.cpp(461): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\szalo\desktop\opengl\programs\skeleton\skeleton\skeleton.cpp(499): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\szalo\desktop\opengl\programs\skeleton\skeleton\skeleton.cpp(502): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\szalo\desktop\opengl\programs\skeleton\skeleton\skeleton.cpp(509): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\szalo\desktop\opengl\programs\skeleton\skeleton\skeleton.cpp(538): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\szalo\desktop\opengl\programs\skeleton\skeleton\skeleton.cpp(552): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\szalo\desktop\opengl\programs\skeleton\skeleton\skeleton.cpp(600): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\szalo\desktop\opengl\programs\skeleton\skeleton\skeleton.cpp(618): warning C4305: 'argument': truncation from 'double' to 'float'
+  Skeleton.vcxproj -> C:\Users\szalo\Desktop\opengl\Programs\Skeleton\bin\Skeleton.exe
+  Skeleton.vcxproj -> C:\Users\szalo\Desktop\opengl\Programs\Skeleton\bin\Skeleton.pdb (Full PDB)
